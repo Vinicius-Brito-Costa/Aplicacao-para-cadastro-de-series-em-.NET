@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\bin\Debug\net5.0\AplicativoSeries.exe
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\bin\Debug\net5.0\AplicativoSeries.deps.json
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\bin\Debug\net5.0\AplicativoSeries.runtimeconfig.json
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\bin\Debug\net5.0\AplicativoSeries.runtimeconfig.dev.json
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\bin\Debug\net5.0\AplicativoSeries.dll
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\bin\Debug\net5.0\ref\AplicativoSeries.dll
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\bin\Debug\net5.0\AplicativoSeries.pdb
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\obj\Debug\net5.0\AplicativoSeries.csprojAssemblyReference.cache
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\obj\Debug\net5.0\AplicativoSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\obj\Debug\net5.0\AplicativoSeries.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\obj\Debug\net5.0\AplicativoSeries.AssemblyInfo.cs
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\obj\Debug\net5.0\AplicativoSeries.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\obj\Debug\net5.0\AplicativoSeries.dll
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\obj\Debug\net5.0\ref\AplicativoSeries.dll
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\obj\Debug\net5.0\AplicativoSeries.pdb
+C:\Users\Vinicius\Documents\Programação\AplicativoSeries\obj\Debug\net5.0\AplicativoSeries.genruntimeconfig.cache
